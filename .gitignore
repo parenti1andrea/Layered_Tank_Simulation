@@ -1,3 +1,5 @@
 # Do not push file with these extensions 
 *.root 
 *.pdf
+*.h5
+*.hdf5
