@@ -12,3 +12,5 @@ H_TANK = 120 * u.cm
 
 TOP_TANK = 80 * u.cm
 
+WORLD_Z = 250 * u.cm 
+WORLD_R = 250 * u.cm
